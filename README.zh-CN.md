@@ -6,6 +6,12 @@
 
 深蓝灰的边框，近白色的页面，舒展的留白。
 
+<p align="center">
+  <a href="https://obsidian.md/"><img alt="Obsidian 主题" src="https://img.shields.io/badge/Obsidian-Theme-365B75?style=flat-square&amp;labelColor=17222D&amp;logo=obsidian&amp;logoColor=white"></a>
+  <a href="manifest.json"><img alt="需要 Obsidian 1.13.0 或更高版本" src="https://img.shields.io/badge/Obsidian-1.13.0%2B-365B75?style=flat-square&amp;labelColor=17222D"></a>
+  <a href="LICENSE"><img alt="MIT 许可证" src="https://img.shields.io/badge/License-MIT-365B75?style=flat-square&amp;labelColor=17222D"></a>
+</p>
+
 [English](README.md) · **简体中文**
 
 [外观预览](#外观预览) · [设计细节](#设计细节) · [安装方式](#安装方式)
