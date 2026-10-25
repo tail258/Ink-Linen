@@ -6,6 +6,12 @@
 
 Deep blue-gray surroundings. A near-white page. Room to think.
 
+<p align="center">
+  <a href="https://obsidian.md/"><img alt="Obsidian theme" src="https://img.shields.io/badge/Obsidian-Theme-365B75?style=flat-square&amp;labelColor=17222D&amp;logo=obsidian&amp;logoColor=white"></a>
+  <a href="manifest.json"><img alt="Requires Obsidian 1.13.0 or later" src="https://img.shields.io/badge/Obsidian-1.13.0%2B-365B75?style=flat-square&amp;labelColor=17222D"></a>
+  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/License-MIT-365B75?style=flat-square&amp;labelColor=17222D"></a>
+</p>
+
 **English** · [简体中文](README.zh-CN.md)
 
 [Preview](#preview) · [Design](#design) · [Installation](#installation)
